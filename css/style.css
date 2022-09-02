@@ -111,7 +111,7 @@ section img#rocks {
   background: #fff;
   color: #2b1055;
   font-size: 1.5em;
-  z-index: 999;
+  z-index: 9;
   transform: translateY(100px);
 }
 .sec {
